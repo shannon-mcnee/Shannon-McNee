@@ -4,7 +4,7 @@ title: "Shannon McNee"
 
 
 
-![Shannon McNee](home/mywebpage/docs/images/slack.jpg)
+![Shannon McNee](docs/images/slack.jpg)
 
 I am a postgraduate student in the University of Glasgow's
 [Institute of Neuroscience and Psychology](http://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/).
